@@ -1,0 +1,40 @@
+gossip-container {
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  .gossip {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+
+  .gossip-image {
+    flex: 0 0 100px;
+    margin-right: 20px;
+  }
+
+  .gossip-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+
+  .gossip-content {
+    flex: 1;
+  }
+
+  .gossip-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+
+  .gossip-description{
+    font-size: 14px;
+    line-height: 1.4
+  }
+    
+
+    
